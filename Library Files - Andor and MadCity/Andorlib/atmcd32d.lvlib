@@ -6,7 +6,7 @@
 	<Item Name="atmcd32d.dll" Type="Document" URL="../atmcd32d.dll"/>
 	<Item Name="Cancel Wait.vi" Type="VI" URL="../VIs/Cancel Wait.vi"/>
 	<Item Name="Cooler OFF.vi" Type="VI" URL="../VIs/Cooler OFF.vi"/>
-	<Item Name="Cooler ON.vi" Type="VI" URL="../VIs/Cooler ON.vi"/>
+	<Item Name="Cooler ON.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d/VIs/Cooler ON.vi"/>
 	<Item Name="Demosaic Image.vi" Type="VI" URL="../VIs/Demosaic Image.vi"/>
 	<Item Name="Enable Keep Cleans.vi" Type="VI" URL="../VIs/Enable Keep Cleans.vi"/>
 	<Item Name="Filter Get Averaging Factor.vi" Type="VI" URL="../VIs/Filter Get Averaging Factor.vi"/>
