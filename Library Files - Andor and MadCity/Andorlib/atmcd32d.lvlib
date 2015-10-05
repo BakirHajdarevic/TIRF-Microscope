@@ -176,7 +176,7 @@
 	<Item Name="I2C Write.vi" Type="VI" URL="../VIs/I2C Write.vi"/>
 	<Item Name="Id Andor Dll.vi" Type="VI" URL="../VIs/Id Andor Dll.vi"/>
 	<Item Name="In Aux Port.vi" Type="VI" URL="../VIs/In Aux Port.vi"/>
-	<Item Name="Initialize Device.vi" Type="VI" URL="../VIs/Initialize Device.vi"/>
+	<Item Name="Initialize Device.vi" Type="VI" URL="../../../Camera &amp; Acquisition VIs/SubVIs/Andor Camera/Initialize Device.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../VIs/Initialize.vi"/>
 	<Item Name="Is Amplifier Available.vi" Type="VI" URL="../VIs/Is Amplifier Available.vi"/>
 	<Item Name="Is Cooler On.vi" Type="VI" URL="../VIs/Is Cooler On.vi"/>
